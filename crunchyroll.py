@@ -22,7 +22,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='repla
 
 # ==================== CONFIG ====================
 BOT_TOKEN      = "8756139201:AAE1piMOVIduUU4dUJx0vyZsOl6Jm9dh-Ik"
-OWNER_ID       = 8650663283
+OWNER_ID       = 8189708860
 CHANNEL_LINK   = "https://t.me/+DCrLPhvLo4lkZGZk"
 CHANNEL_ID     = -1003808606039
 MONGO_URI      = "mongodb+srv://Esh:1234567890ukwhat@cluster0.mnbnc7a.mongodb.net/?appName=Cluster0"   # ← change to your MongoDB Atlas URI if needed

@@ -21,10 +21,10 @@ logger = logging.getLogger(__name__)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 # ==================== CONFIG ====================
-BOT_TOKEN      = "8882830302:AAG8AgXnt9iTidYVPRteDbloaOmQFZGeS_4"
+BOT_TOKEN      = "8756139201:AAE1piMOVIduUU4dUJx0vyZsOl6Jm9dh-Ik"
 OWNER_ID       = 8650663283
-CHANNEL_LINK   = "https://t.me/+2YhAjjTUB8g3YTFk"
-CHANNEL_ID     = -1004356300423
+CHANNEL_LINK   = "https://t.me/+DCrLPhvLo4lkZGZk"
+CHANNEL_ID     = -1003808606039
 MONGO_URI      = "mongodb+srv://Esh:1234567890ukwhat@cluster0.mnbnc7a.mongodb.net/?appName=Cluster0"   # ← change to your MongoDB Atlas URI if needed
 MONGO_DB       = "crunchyroll_updated_bot"
 
